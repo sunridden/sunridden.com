@@ -42,6 +42,15 @@ a {
     width: 60%;
 }
 
+.hand {
+    font-size: 13px;
+}
+
+.memoji {
+    width: 34px;
+    height: 34px;
+}
+
 .header-text {
     width: 500px;
     font-weight: bold;
