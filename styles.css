@@ -1,0 +1,50 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #282828;
+    color: #D3869B;
+    margin-left: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    margin: 0;
+    margin-top: 2%;
+    display: flex;
+    gap: 20px;
+}
+
+.home {
+    color: #FB4934;
+}
+
+.github {
+    color: #B8BB26;
+}
+
+.projects {
+    color: #FABD2F;
+}
+
+.contact {
+    color: #83A598;
+}
+
+.main-content {
+    width: 60%;
+}
+
+.header-text {
+    width: 500px;
+    font-weight: bold;
+    font-size: 64px;
+    color: #FBF1C7;
+}
