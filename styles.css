@@ -48,6 +48,16 @@ p {
     color: #83A598;
 }
 
+.contact-link {
+    display: inline-block;
+    color: #D3869B;
+    border-bottom: solid 3px #000;
+}
+
+.contact-link:hover {
+    color: #83A598;
+}
+
 .main-content {
     max-width: 950px;
     margin-top: 9vw;
