@@ -8,16 +8,25 @@
 body {
     background-color: #282828;
     color: #D3869B;
-    margin-left: 10%;
 }
 
 a {
     text-decoration: none;
 }
 
+p {
+    font-size: 20px;
+    line-height: 1.54;
+    margin: 24px 0px;
+}
+
+.container {
+    padding: 0px 10vw;
+}
+
 .navbar {
     margin: 0;
-    margin-top: 2%;
+    padding-top: 2%;
     display: flex;
     gap: 20px;
 }
@@ -40,6 +49,11 @@ a {
 
 .main-content {
     width: 60%;
+    margin-top: 9vw;
+}
+
+.emoji {
+    margin: 36px 0px;
 }
 
 .hand {
