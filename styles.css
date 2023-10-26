@@ -21,6 +21,11 @@ p {
     margin: 24px 0px;
 }
 
+::selection {
+    color: black;
+    background-color: white;
+}
+
 .container {
     padding: 0px 10vw;
 }
